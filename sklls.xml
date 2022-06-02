@@ -1,0 +1,29 @@
+<root>
+    <Skills1>Basic theory (What is testing, bugs, documentation, types, methods, testing directions, etc.) SDLC, STLC.</Skills1>
+    <Skills2>What is client-server architecture.</Skills2>
+    <Skills3>HTTP Server Query Methods.</Skills3>
+    <Skills4>HTTP Server Response Codes.</Skills4>
+    <Skills5>HTTP request and response structures</Skills5>
+    <Skills6>What is JSON, XML. Their structure.</Skills6>
+    <Skills7>API testing via Postman (JS, API autotests).</Skills7>
+    <Skills8>Removes and reads logs from an external server.</Skills8>
+    <Skills9>Snifing http web traffic through Charles and Fiddler.</Skills9>
+    <Skills10>Dev Tools (Google Chrome, FireFox).</Skills10>
+    <Skills11>VPN. (How Works, Why You Need, How to Use, Tool Options)</Skills11>
+    <Skills12>Mobile testing.</Skills12>
+    <Skills13>Feature of iOS, Android, Guides.</Skills13>
+    <Skills14>Build iOS applications on XCode. (Who does not have a Mac computer, just look)</Skills14>
+    <Skills15>Build Android apps on Android Studio.</Skills15>
+    <Skills16>ADB (android device management).</Skills16>
+    <Skills17>Configure proxy and vpn on iOS and Android.</Skills17>
+    <Skills18>Interception (sniffing) of mobile traffic via Charles and Fiddler on iOS and Android.</Skills18>
+    <Skills19>Linux command line (terminal) (copy, create, view, move files on servers without GUI)</Skills19>
+    <Skills20>Basics bash scripting, automation of routine tasks on the server.</Skills20>
+    <Skills21>Access to remote servers.</Skills21>
+    <Skills22>Fundamentals of SQL (Create, Delete, Drop, Insert, Select, From, Where, Connect).</Skills22>
+    <Skills23>Postgres database (installation, configuration and use).</Skills23>
+    <Skills24>Redis non-relative database (installation, configuration and use).</Skills24>
+    <Skills25>Load testing in Jmeter.</Skills25>
+    <Skills26>The Scrum Development Methodology.</Skills26>
+    <Skills27>Python. (Learning Basics. Creating a Server Application Client)</Skills27>
+</root>
