@@ -1,1 +1,11 @@
-
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <Bug_ID>1</Bug_ID>
+    <Description>The_background_does_not_change correctly.Learned_to_try_for_free.Feature_page.On_hover.</Description>
+    <Steps_to_Reproduce>1) Open_page_https://www.atlassian.com/en/software/jira/features</Steps_to_Reproduce>
+    <Steps_to_Reproduce>2) Hover_over_the_'Get Free'_button</Steps_to_Reproduce>
+    <AR>Button background changes to #004783</AR>
+    <ER>Button background changes to #000000</ER>
+    <Severity>Minor</Severity>
+    <Priority>Medium</Priority>
+</root>
